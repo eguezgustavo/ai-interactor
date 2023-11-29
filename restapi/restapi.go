@@ -5,7 +5,7 @@ import (
 
 	"github.com/labstack/echo/v4"
 
-	interactor "github.com/eguezgustavo/ai-interaction/domain"
+	interactor "github.com/eguezgustavo/ai-interactor/domain"
 )
 
 type RestAPI struct {

@@ -3,7 +3,7 @@ package adapters
 import (
 	"github.com/sashabaranov/go-openai"
 
-	"github.com/eguezgustavo/ai-interaction/domain"
+	"github.com/eguezgustavo/ai-interactor/domain"
 )
 
 type OpenAIImpl struct {

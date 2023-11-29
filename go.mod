@@ -1,4 +1,4 @@
-module github.com/eguezgustavo/ai-interaction
+module github.com/eguezgustavo/ai-interactor
 
 go 1.21.3
 

@@ -3,9 +3,9 @@ package main
 import (
 	"github.com/labstack/echo/v4"
 
-	"github.com/eguezgustavo/ai-interaction/adapters"
-	"github.com/eguezgustavo/ai-interaction/domain"
-	"github.com/eguezgustavo/ai-interaction/restapi"
+	"github.com/eguezgustavo/ai-interactor/adapters"
+	"github.com/eguezgustavo/ai-interactor/domain"
+	"github.com/eguezgustavo/ai-interactor/restapi"
 )
 
 type RestAPI interface {

@@ -2,7 +2,7 @@ package restapi
 
 import (
 	"bytes"
-	interactor "github.com/eguezgustavo/ai-interaction/domain"
+	interactor "github.com/eguezgustavo/ai-interactor/domain"
 	"encoding/json"
 	"fmt"
 	"net/http"
